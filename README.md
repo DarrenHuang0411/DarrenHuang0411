@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenHuang0411&show=reviews,discussions_startedprs_merged,prs_merged_percentage&theme=tokyonight)
 <!--
 **DarrenHuang0411/DarrenHuang0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
